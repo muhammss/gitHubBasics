@@ -1,0 +1,8 @@
+git init  //to initalize a new repository
+git add . //to add your local file ready for upload
+git commit -m "Message" //save changes to the git files
+git push //push changes to the online repository
+git branch //checking the number of branches
+git branch -d branch_name // deleting a branch on local machine
+git checkout -b branch_name //making a branch 
+
